@@ -555,4 +555,4 @@ def who_am_i():  # this is not a class method
     """Returns a dictionary with your name, id number and email. keys=['name', 'id','email']
     Make sure you return your own info!
     """
-    return {'name': 'Amit Damri', 'id': '312199698', 'email': 'amitdamr@post.bgu.ac.il'}
+    return {'name': 'Amit Damri', 'id': '#########', 'email': 'amitdamr@post.bgu.ac.il'}
