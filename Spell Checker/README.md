@@ -3,8 +3,6 @@
 <p align="center">
 	<img height=400 width=400 src="https://user-images.githubusercontent.com/49988048/196615615-15e29465-075c-4c0b-b4d8-b2d3af1afcc8.png">
 </p>
-![image]()
-
 
 Implementation of a spell checker that handles both non-word and real-word errors given in a sentential context.
 In order to do that I learned a language model as well as reconstructed the error distribution tables (according to error type) 
