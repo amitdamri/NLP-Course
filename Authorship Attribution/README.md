@@ -14,7 +14,7 @@ I used Python’s nltk, sklearn and Pytorch packages/libraries for preprocessing
 4. Recurrent Neural Network (LSTM - Pytorch)
 5. Random Forest
 
-# Classification: Who Controls this Account
+### Classification: Who Controls this Account
 Politicians, as well as other public figures, usually have assistants and staffers that manage most of their social media presence.
 However, like many other norm defying actions, Donald Trump, the 45th President of the United States is taking pride in his untamed use of Twitter.
 At times, during the presidential campaign, it was <a href="https://www.theatlantic.com/politics/archive/2016/08/donald-trump-twitter-iphone-android/495239/">hypothesized</a>
