@@ -23,9 +23,3 @@ and understand the differences between the various algorithmic frameworks and th
 
 
 4. POS Tagging - The purpose of this assignment is to implement a Hidden Markov Model and a BiLSTM model for Part of Speech tagging. The objectives of this assignment are: Better understanding of POS and HMM and generative sequence models, using multi-layer bi-LSTM model and extending the input representation for the LSTM tagger.
-
----
-
-<p align="center">
-<img src="https://cdn4.euraxess.org/sites/default/files/migration/euraxess_service_centre/bgu-white.png">
-</p>
